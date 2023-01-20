@@ -19,7 +19,7 @@ This application generates a simple report of states in Brazil from the IBGE API
 ### 🎲 Pre-requisites
 
 Java 17.x.x <br>
-Maven 3.x.x
+Maven 3.8.x
 
 ### ▶️ Run Project
 
